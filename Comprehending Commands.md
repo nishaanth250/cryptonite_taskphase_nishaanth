@@ -25,7 +25,7 @@ grep - Global Regular Expression search and Print
 
 ## listing files:
 
-Execute '/challenge/25653-renamed-run-479' 'here, 25653-renamed-run-479' is an executable.
+Execute '/challenge/25653-renamed-run-479'. Here, '25653-renamed-run-479' is an executable.
 
 
 
